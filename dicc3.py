@@ -15,8 +15,3 @@ else:
     nuevo_color =input("el color no existe, porfavor agregar traduccion: ")
     inventario[color] = nuevo_color
     print("nuevo color agregado", nuevo_color)
-
-    
-    
-
-
