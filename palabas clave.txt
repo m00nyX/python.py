@@ -4,6 +4,6 @@
 .remove = elimina por el nombre del elemento
 .sort = ordena los valores de menor a mayor
 .lent() = cuenta los valores
-sum = suma todos los valores solo en listas
-max = da el numero mas grande
-min = da el numero mas pequeño
+sum() = suma todos los valores solo en listas
+max() = da el numero mas grande
+min() = da el numero mas pequeño
