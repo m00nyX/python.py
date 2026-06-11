@@ -5,6 +5,8 @@ estudiantes = [
     {"nombre": "Ana", "nota": 2.8}
 ]
 
-for i in estudiantes:
-     if "nota" >=4.0:
-         print(f"estudiante"["nombre"]:"aprovado")
+for estudiante in estudiantes:
+    if estudiante["nota"] >= 4.0:
+        print(f"Estudiante {estudiante['nombre']}: aprobado")
+    else:
+        print(f"Estudiante {estudiante['nombre']}: reprobado")
